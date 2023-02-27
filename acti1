@@ -8,5 +8,10 @@
 <p>Java<p>
 <h1>SQL</h1>
 <h2>Manual</h2>
+Chromedriver driver = new Chromedriver();
+Webdriver driver = new Chromedriver();
+searchcontex driver = new Chromedriver();
+Takescreenshot driver = new Chromedriver();
+Javascriptexecutor driver = new Chromedriver();
 </body>
 </html>
